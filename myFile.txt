@@ -1,2 +1,3 @@
 Une nouvelle ligne de fichier
 Ma deuxième ligne de texte
+Une troisième ligne de code
