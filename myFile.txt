@@ -1,1 +1,2 @@
 Une nouvelle ligne de fichier
+Ma deuxième ligne de texte
